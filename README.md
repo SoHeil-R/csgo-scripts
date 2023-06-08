@@ -1,4 +1,4 @@
-## CSGO Cheats Luas
+## CSGO Scripts/Luas
 
 ![](https://img.shields.io/badge/language-lua-blue)
 
