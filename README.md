@@ -1,2 +1,0 @@
-# csgo-scripts
-csgo cheats
